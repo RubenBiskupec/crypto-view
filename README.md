@@ -1,4 +1,5 @@
 # crypto-supply
+![alt text](https://github.com/RubenBiskupec/crypto-view/blob/main/crypto-view.png)
 
 ## Project setup
 ```
