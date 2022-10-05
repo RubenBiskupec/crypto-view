@@ -6,10 +6,6 @@
       dark
     >
       CRYPTO LAND
-
-      <v-spacer></v-spacer>
-
-      JAMIE_JOE & SLAV_VIKING
     </v-app-bar>
 
     <v-main>
